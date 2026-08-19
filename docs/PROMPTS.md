@@ -8,7 +8,7 @@ Square app icon. Dark rounded-square tile (#111113), thin light border. Center: 
 **Hero (16:9)**  
 Wide README banner. Dark charcoal (#0d0d0f), fine grid. Circular refresh icon in a rounded square. Wordmark HARNESS, subtitle DSH UPDATER. Caption “Community plugin · not official DeepSeek”. Linear/Codex aesthetic, no photos.
 
-**GitHub social preview (16:9, upload in Settings → Social preview)**  
+**GitHub social preview (16:9, upload `github-social-preview.jpg` — under 1 MB)**  
 Left: large white refresh icon on near-black. Right: “dsh-updater” / “One-click updates for DeepSeek Harness” / “Community plugin · like Codex”. MIT hint. High contrast for 1280×640 crop.
 
 **Overlay update (16:9)**  
