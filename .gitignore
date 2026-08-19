@@ -1,0 +1,11 @@
+node_modules/
+.npm/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db
+update-stage/
+update-cache/
+engine-bak/

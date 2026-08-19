@@ -1,0 +1,4 @@
+# Community updater. Settings → Updates + blocking overlay. Not official DeepSeek.
+- insert:
+    - id: dsh-updater
+      name: dsh-updater
